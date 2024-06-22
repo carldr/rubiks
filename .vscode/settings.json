@@ -6,6 +6,7 @@
   "[python]": {
     "editor.defaultFormatter": "ms-python.autoPep8"
   },
+  "autopep8.args": ["--indent-size=2", "--ignore=E121"],
   "files.exclude": {
     "/__pycache__": true
   }
