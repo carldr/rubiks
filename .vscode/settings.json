@@ -1,0 +1,12 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "editor.formatOnSaveMode": "file",
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.autoPep8"
+  },
+  "files.exclude": {
+    "/__pycache__": true
+  }
+}
